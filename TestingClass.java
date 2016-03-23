@@ -11,6 +11,7 @@ public class TestingClass {
     }
 
     public void print() {
+        System.out.println("The position is:");
         System.out.println("x: " + x + " | y: " + y);
     }
 }
